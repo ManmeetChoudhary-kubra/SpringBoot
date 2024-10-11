@@ -81,9 +81,3 @@ public class CityRestController {
     }
 
 }
-
-
-
-
-
-
